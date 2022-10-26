@@ -18,5 +18,16 @@
     <ClCompile Include="Zadacha5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="status_func.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="status_func.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="const.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
